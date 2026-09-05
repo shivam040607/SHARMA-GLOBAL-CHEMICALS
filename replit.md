@@ -1,6 +1,6 @@
-# [Project name]
+# Sharma Global Chemicals
 
-_Replace the heading above with the project's name, and this line with one sentence describing what this app does for users._
+Premium, responsive B2B chemical trading website and searchable product catalogue for Sharma Global Chemicals in Noida.
 
 ## Run & Operate
 
@@ -22,23 +22,34 @@ _Replace the heading above with the project's name, and this line with one sente
 
 ## Where things live
 
-_Populate as you build — short repo map plus pointers to the source-of-truth file for DB schema, API contracts, theme files, etc._
+- `artifacts/sharma-global-chemicals/src/App.tsx` — website routes, exact PDF-sourced catalogue, enquiry flow, contact actions, and shared shell.
+- `artifacts/sharma-global-chemicals/src/index.css` — navy, gold, green, and light-background theme tokens plus responsive visual styling.
+- `artifacts/sharma-global-chemicals/public/` — official logo, favicon, robots.txt, and sitemap.xml.
+- `attached_assets/generated_images/sharma-chemical-hero.jpg` — unbranded hero visual generated for the landing page.
 
 ## Architecture decisions
 
-_Populate as you build — non-obvious choices a reader couldn't infer from the code (3-5 bullets)._
+- The catalogue is intentionally frontend-owned because the supplied PDF is the authoritative source and the first release does not need a database.
+- The two separate `Industrial chemicals` sections remain distinct via category indexes and duplicate-safe product slugs.
+- Quote submission uses a pre-filled `mailto:` flow plus direct phone and WhatsApp links, keeping lead capture usable without a backend.
+- The official supplied logo is reused as-is; generated imagery is limited to unbranded chemical/laboratory visuals.
 
 ## Product
 
-_Describe the high-level user-facing capabilities of this app once they exist._
+- Responsive marketing site with Home, About, Products, Industries, Contact, and product-detail routes.
+- Searchable and category-filterable catalogue containing all 137 PDF-listed products.
+- Every product supports quote initiation, with requested enquiry fields and mobile-friendly contact CTAs.
+- Route-aware SEO metadata, LocalBusiness JSON-LD, canonical links, robots.txt, and sitemap.xml.
 
 ## User preferences
 
-_Populate as you build — explicit user instructions worth remembering across sessions._
+- Preserve the supplied product names and category labels exactly as listed in the PDF.
+- Do not claim certifications, specifications, purity, packaging, manufacturing, or guarantees that were not supplied.
 
 ## Gotchas
 
-_Populate as you build — sharp edges, "always run X before Y" rules._
+- The website build command needs workflow-provided `PORT` and `BASE_PATH`; for manual builds use `PORT=5173 BASE_PATH=/`.
+- Do not replace or recolor `attached_assets/file_0000000045a481fa9c80725858cd0c2a_1788583197646.png`; it is the official logo.
 
 ## Pointers
 

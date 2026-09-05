@@ -1,0 +1,175 @@
+warning: The `fitz` API is deprecated and will be removed in future. Use `import pymupdf` instead.
+pages=4
+metadata={'format': 'PDF 1.4', 'title': 'Industrial chemicals', 'author': 'shivam sharma', 'subject': '', 'keywords': 'DAHUIzbMVrY,BAF-1vKreIo', 'creator': 'Canva', 'producer': 'Canva', 'creationDate': "D:20260903154932+00'00'", 'modDate': "D:20260903154932+00'00'", 'trapped': '', 'encryption': None}
+rendered=.agents/outputs/chemical_pdf_pages/page-1.png size=595.5x841.9199829101562
+--- PAGE 1 TEXT ---
+1.  Industrial chemicals 
+1.  Formaldehyde liquid chemical 
+2.  Thikri naushadar pure
+3.  Sulphamic acid powder 
+4.  Sodium polyacrylate powder 
+5.  Copper sulphate crystals 
+6.  hydrogen peroxide liquid
+7.  Caustic soda lye 
+8.  Dcm shriram bleaching powder 
+9.  Potassium bicarbonate powder 
+10. Acid slurry labsa 
+11. Emulsolic olic acid 
+12. Barium chloride powder 
+13. Crospovidone XL 10 
+14. Sodium measilicate powder 
+15. White zinc oxide 
+16. Carmoisine food colour 
+17. Phthalic anhydride powder 
+18. White dextrine powder
+19. Borax decahydrate powder 
+20. Ethyl acetate chemical 
+21. Yellow bees wax 
+22. Ammonium sulphate powder 
+23. Navyug benzoic acid 
+24. Ferric chloride anhydrous 
+25. Sodium thiosulfate hypo
+26. Chrome oxide green 
+27. Caustic potash/ potassium hydroxide 
+28. Polymeg 6000 ph 
+29. Phosphoric acid liquid 
+30. Isopropyl alcohol liquid 
+31. Saraswati camphor powder 
+32. Liquid nitric acid 
+33. White petroleum jelly 
+2. Food chemicals
+1.  Sodium bicarbonate food grade 
+2.  Soya lecithin liquid 
+3.  Maltodextrin powder mdp
+4.  Trisodium phosphate 
+5.  Lactose food chemicals 
+6.  Kms potassium metabisulfite 
+7.  Glacial acetic acid 
+
+--- PAGE 1 BLOCKS ---
+1.    Industrial chemicals  1.    Formaldehyde liquid chemical  2.    Thikri naushadar pure 3.    Sulphamic acid powder  4.    Sodium polyacrylate powder  5.    Copper sulphate crystals  6.    hydrogen peroxide liquid 7.    Caustic soda lye  8.    Dcm shriram bleaching powder  9.    Potassium bicarbonate powder  10. Acid slurry labsa  11. Emulsolic olic acid  12. Barium chloride powder  13. Crospovidone XL 10  14. Sodium measilicate powder  15. White zinc oxide  16. Carmoisine food colour  17. Phthalic anhydride powder  18. White dextrine powder 19. Borax decahydrate powder  20. Ethyl acetate chemical  21. Yellow bees wax  22. Ammonium sulphate powder  23. Navyug benzoic acid  24. Ferric chloride anhydrous  25. Sodium thiosulfate hypo 26. Chrome oxide green  27. Caustic potash/ potassium hydroxide  28. Polymeg 6000 ph  29. Phosphoric acid liquid  30. Isopropyl alcohol liquid  31. Saraswati camphor powder  32. Liquid nitric acid  33. White petroleum jelly
+2. Food chemicals 1.    Sodium bicarbonate food grade  2.    Soya lecithin liquid  3.    Maltodextrin powder mdp 4.    Trisodium phosphate  5.    Lactose food chemicals  6.    Kms potassium metabisulfite  7.    Glacial acetic acid
+rendered=.agents/outputs/chemical_pdf_pages/page-2.png size=595.5x841.9199829101562
+--- PAGE 2 TEXT ---
+8.  Ammonium bicarbonate 
+9.  Vital wheat gluten 
+10. Dextrose monohydrate powder 
+11. Sodium nitrite powder 
+12. Potassium citrate powder 
+13. Lactic acid liquid 
+14. Yellow dextrine powder
+15. Whey protein concentrate 
+16. Dry yeast powder 
+17. DL tartaric acid 
+18. Potassium sorbate powder 
+19. Sorbitol liquid chemical 
+20. Vietnam phosphoric acid 
+21. DI sodium phosphate 
+22. Sodium benzoate powder 
+23. Maize starch powder 
+24. DL - malic acid powder 
+25. Prestige dry yeast 
+3.  Pharmaceutical chemicals 
+1.  Carboxymethyl cellulose chemical 
+2.  Propylene glycol chemical 
+3.  Ascorbic acid/ vitamin c 
+4.  Magnesium citrate powder 
+5.  Magnesium stearate powder 
+6.  Godrej Aos powder 
+7.  Tri ethyl maine hydrochloride tea HCL
+8.  Benzoyl alcohol IP
+9.  Tween 80 liquid 
+10. Calcium peroxide powder 
+11. Dextrose anhydrous powder 
+12. Benzalkonium chloride liquid 
+13. Magnesium chloride flakes
+14. Sodium chloride powder 
+15. Methyl salicylate IP
+16. Salicylic acid powder 
+17. Bronopol chemical powder 
+18. Sodium acetate powder 
+4.  Chemicals 
+1.  Oxalic acid powder 
+2.  Tcca 90 tri chloro iso cyanuric acid granules 
+
+--- PAGE 2 BLOCKS ---
+8.    Ammonium bicarbonate  9.    Vital wheat gluten  10. Dextrose monohydrate powder  11. Sodium nitrite powder  12. Potassium citrate powder  13. Lactic acid liquid  14. Yellow dextrine powder 15. Whey protein concentrate  16. Dry yeast powder  17. DL tartaric acid  18. Potassium sorbate powder  19. Sorbitol liquid chemical  20. Vietnam phosphoric acid  21. DI sodium phosphate  22. Sodium benzoate powder  23. Maize starch powder  24. DL - malic acid powder  25. Prestige dry yeast
+3.  Pharmaceutical chemicals  1.    Carboxymethyl cellulose chemical  2.    Propylene glycol chemical  3.    Ascorbic acid/ vitamin c  4.    Magnesium citrate powder  5.    Magnesium stearate powder  6.    Godrej Aos powder  7.    Tri ethyl maine hydrochloride tea HCL 8.    Benzoyl alcohol IP 9.    Tween 80 liquid  10. Calcium peroxide powder  11. Dextrose anhydrous powder  12. Benzalkonium chloride liquid  13. Magnesium chloride flakes 14. Sodium chloride powder  15. Methyl salicylate IP 16. Salicylic acid powder  17. Bronopol chemical powder  18. Sodium acetate powder
+4.  Chemicals   1.    Oxalic acid powder  2.    Tcca 90 tri chloro iso cyanuric acid granules
+rendered=.agents/outputs/chemical_pdf_pages/page-3.png size=595.5x841.9199829101562
+--- PAGE 3 TEXT ---
+3.  Chromic acid chemicals 
+4.  Sodium penta chloro phenate 
+5.  Calcium sulphate powder 
+6.  Liquor ammonia chemicals 
+7.  Light liquid paraffin 
+8.  Soda ash light 
+9.  Methylene dichloride MDC 
+10. Hydrated lime powder 
+11. Ammonium acetate powder 
+12. Cdea CoCodiethanolamide liquid 
+13. N butyl acetate 
+14. Toluene solvent chemical 
+15. White melamine powder 
+5.  Industrial chemicals 
+1.  Epsom salt crystals 
+2.  Silica gel pouch 
+3.  Caustic soda prill 
+4.  Dilute hydrofluoric acid 
+5.  Zinc chloride powder
+6.  Sodium nitrate powder 
+7.  Idacol tetrazine colour 
+8.  Mono ammonium phosphate 
+9.  Yeast extract powder 
+10. Magnesium carbonate powder 
+11. Magnesium nitrate powder 
+12. Industrial chloroform chemical
+13. Butylated hydroxy Toluene 
+14. Formic acid chemicals 
+15. DI potassium phosphate 
+6.  Powder chemicals 
+1.  Ammonium chloride powder 
+2.  Sipernat-22S precipitated powder 
+3.  Sodium citrate powder 
+4.  Potassium chloride powder 
+5.  Indiflo perlite filter aids powder 
+6.  Sodium sulphate powder 
+
+--- PAGE 3 BLOCKS ---
+3.    Chromic acid chemicals  4.    Sodium penta chloro phenate  5.    Calcium sulphate powder  6.    Liquor ammonia chemicals  7.    Light liquid paraffin  8.    Soda ash light  9.    Methylene dichloride MDC  10. Hydrated lime powder  11. Ammonium acetate powder  12. Cdea CoCodiethanolamide liquid  13. N butyl acetate  14. Toluene solvent chemical  15. White melamine powder
+5.  Industrial chemicals  1.    Epsom salt crystals  2.    Silica gel pouch  3.    Caustic soda prill  4.    Dilute hydrofluoric acid  5.    Zinc chloride powder 6.    Sodium nitrate powder  7.    Idacol tetrazine colour  8.    Mono ammonium phosphate  9.    Yeast extract powder  10. Magnesium carbonate powder  11. Magnesium nitrate powder  12. Industrial chloroform chemical 13. Butylated hydroxy Toluene  14. Formic acid chemicals  15. DI potassium phosphate
+6.  Powder chemicals  1.    Ammonium chloride powder  2.    Sipernat-22S precipitated powder  3.    Sodium citrate powder  4.    Potassium chloride powder  5.    Indiflo perlite filter aids powder  6.    Sodium sulphate powder
+rendered=.agents/outputs/chemical_pdf_pages/page-4.png size=595.5x841.9199829101562
+--- PAGE 4 TEXT ---
+7.  Glycerol monostearate powder 
+8.  Titanium dioxide powder 
+9.  TBHQ powder (Tert-Butylhydroquinone)
+10. Tricalcium phosphate powder 
+11. Pregelatinized starch powder 
+12. Carbopol 940 powder 
+13. Lithophone chemical powder 
+7.  Textile Auxiliaries 
+1.  Sodium hydrosulfite powder 
+2.  Kalali safolite chemical 
+3.  Sodium formaldehyde sulfoxylate 
+4.  Tata soda ash 
+5.  Sodium alginate powder 
+6.  Sodium sulphide flakes 
+7.  Caustic soda flakes 
+8.  Sodium metabisulphite SMBS
+9.  Stable bleaching powder 
+8.  Water treatment chemicals 
+1.  Ferrous sulphate powder 
+2.  Poly aluminium chloride 
+3.  Sodium percarbonate powder 
+4.  Alphox 200 Emusifier 
+5.  White alum phitkari 
+6.  Sodium hypochlorite solution 
+7.  Ethylenediaminetetraacetic acid EDTA 
+8.  Anionic polyelectrolyte powder 
+9.  Sodium bromide powder 
+
+--- PAGE 4 BLOCKS ---
+7.    Glycerol monostearate powder  8.    Titanium dioxide powder  9.    TBHQ powder (Tert-Butylhydroquinone) 10. Tricalcium phosphate powder  11. Pregelatinized starch powder  12. Carbopol 940 powder  13. Lithophone chemical powder
+7.  Textile Auxiliaries  1.    Sodium hydrosulfite powder  2.    Kalali safolite chemical  3.    Sodium formaldehyde sulfoxylate  4.    Tata soda ash  5.    Sodium alginate powder  6.    Sodium sulphide flakes  7.    Caustic soda flakes  8.    Sodium metabisulphite SMBS 9.    Stable bleaching powder
+8.  Water treatment chemicals  1.    Ferrous sulphate powder  2.    Poly aluminium chloride  3.    Sodium percarbonate powder  4.    Alphox 200 Emusifier  5.    White alum phitkari  6.    Sodium hypochlorite solution  7.    Ethylenediaminetetraacetic acid EDTA  8.    Anionic polyelectrolyte powder  9.    Sodium bromide powder

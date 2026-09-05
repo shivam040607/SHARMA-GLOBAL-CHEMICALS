@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Sharma Global Chemicals"
+description = "A premium, responsive B2B chemical trading website for Sharma Global Chemicals in Noida, with a searchable catalogue sourced from the supplied PDF and enquiry-focused product discovery."
+version = "1.0.0"
+id = "artifacts/sharma-global-chemicals"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 24611
+
+[services.development]
+run = "pnpm --filter @workspace/sharma-global-chemicals run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/sharma-global-chemicals", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/sharma-global-chemicals/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "24611"
+BASE_PATH = "/"
